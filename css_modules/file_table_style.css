@@ -1,0 +1,16 @@
+/*TABLE*/
+TABLE {
+    width: 500px; /* Ширина таблицы */
+    border-collapse: collapse; /* Убираем двойные линии между ячейками */
+   }
+   TD, TH {
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid white; /* Параметры рамки */
+   }
+   TH {
+    background: #b0e0e6; /* Цвет фона */
+   }
+  /*мелкие теги */
+  #path-p{
+    margin: 0 0 4px 3px;
+  }
